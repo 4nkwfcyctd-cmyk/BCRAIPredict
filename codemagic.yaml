@@ -1,3 +1,18 @@
+workflows:
+
+    android-workflow-id:
+
+        name: Android Sample Workflow
+
+        # .......    
+
+        # .......
+
+        # .......  
+
+    ios-workflow-id:
+
+        name: BcrtoolAi
 artifacts:
   - build/ios/ipa/*.ipa
   - /tmp/xcodebuild_logs/*.log
